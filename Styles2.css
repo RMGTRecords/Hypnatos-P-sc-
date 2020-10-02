@@ -1,0 +1,78 @@
+body{ 
+   font-family: 'Varela';
+    margin: 0;
+    min-height: 100vh;
+   background-image: url(Imagenes/Final%20HN%203000x3000.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;  
+   background-position: center;
+   background-attachment: fixed;
+    
+}
+
+.titulo{
+    background-color:#080909;
+    margin-top:20%;
+    color: white;
+    text-align: center;
+     font-family: 'Varela';
+    font-size: 30px;
+}
+
+img{
+    margin-top: 5%;
+}
+
+
+
+
+
+
+
+.contenedor{
+    
+    width: 80%;
+    max-width: 600px;
+    
+    margin: auto;
+    position: relative;
+    background:linear-gradient(90deg, #bdb3bc, #262324 );
+    opacity: 0.8;
+}
+.f{
+    
+    width: 50%;
+    padding: 10px;
+}
+
+.btn{
+    background-color:#bdb3bc; 
+   padding-bottom:5%;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.lol{
+    width:20%; 
+    height=10%;
+
+    position: relative;
+    bottom:-15px;
+    right: 10px;
+}
+
+table{
+    
+    
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table tr{
+    border: 1px;
+    text-align: center;
+}

@@ -1,0 +1,76 @@
+body{
+    background-color: #bdb3bc;
+  
+   font-family: 'Varela';
+}
+
+.contenedor{
+    color:  #262324;
+    background-color:#bdb3bc;
+    width: 80%;
+    max-width: 600px;
+
+    margin: auto;
+    position: relative;
+
+}
+
+.titulo{
+    
+    width: 80%;
+    height: 10%;
+    margin: auto;
+    position: relative;
+    bottom: -15px;
+    text-align: center;
+    
+    
+}
+.imagen{
+    width:50%;
+    height:auto;
+    margin: auto;
+    position: relative;
+    bottom: 20px;
+    
+    
+}
+
+.imagen img{
+     width:100%;
+    height:auto;
+    margin: auto;
+}
+
+.text{
+    
+    width: 70%;
+    height: auto;   
+    margin: auto;
+    padding: 20px;
+    position: relative;
+    bottom: 50px;
+}
+.text p{
+    font-size: 100%;
+    text-align: center;
+}
+
+.btn{
+    background-color:azure;
+    padding: 20px;
+
+}
+
+.lol{
+    
+    position: relative;
+    bottom: -20px;
+    right: 10px;
+}
+.a{
+    
+    width: 50%;
+    height: 15%;
+    margin: auto;
+}
